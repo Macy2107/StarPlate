@@ -1,1 +1,1 @@
-# StarPlate
+# This is our team project
